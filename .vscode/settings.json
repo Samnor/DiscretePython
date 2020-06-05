@@ -1,3 +1,4 @@
 {
-    "python.linting.enabled": true
+    "python.linting.enabled": true,
+    "python.pythonPath": "/Users/samling/Desktop/Salaguno2020/venv/bin/python3.7"
 }
